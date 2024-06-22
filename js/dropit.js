@@ -106,4 +106,4 @@
 
     $.fn.dropit.settings = {};
 
-})(jQuery);
+})(jQuery); // kinjal wants to commmit 
